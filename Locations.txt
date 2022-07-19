@@ -1,0 +1,64 @@
+HOME 
+N 32.95369° 	W 84.5315° 	h ddd.ddddd°
+N 32° 57.221' 	W 84° 31.89' 	h ddd° mm.mmm′
+N 32° 57' 13.3''	W 84° 31' 53.4''	h dd° mm′ ss.s″
+BARN FEED
+N 32.95487° 	W 84.54343° 	h ddd.ddddd°
+N 32° 57.292' 	W 84° 32.606' 	h ddd° mm.mmm′
+N 32° 57' 17.5''	W 84° 32' 36.4''	h dd° mm′ ss.s″
+TAVERN CREEK FEED
+N 32.96118° 	W 84.54374° 	h ddd.ddddd°
+N 32° 57.671' 	W 84° 32.625' 	h ddd° mm.mmm′
+N 32° 57' 40.2''	W 84° 32' 37.5''	h dd° mm′ ss.s″
+CANE CREEK FEED
+N 32.96019° 	W 84.54068° 	h ddd.ddddd°
+N 32° 57.611' 	W 84° 32.441' 	h ddd° mm.mmm′
+N 32° 57' 36.7''	W 84° 32' 26.5''	h dd° mm′ ss.s″
+TURKEY FEED
+N 32.95532° 	W 84.53908° 	h ddd.ddddd°
+N 32° 57.319' 	W 84° 32.345' 	h ddd° mm.mmm′
+N 32° 57' 19.1''	W 84° 32' 20.7''	h dd° mm′ ss.s″
+RIVER RD FIELD
+N 32.9596° 	W 84.53769° 	h ddd.ddddd°
+N 32° 57.576' 	W 84° 32.262' 	h ddd° mm.mmm′
+N 32° 57' 34.6''	W 84° 32' 15.7''	h dd° mm′ ss.s″
+DUCK FIELD
+N 32.96221° 	W 84.53755° 	h ddd.ddddd°
+N 32° 57.733' 	W 84° 32.253' 	h ddd° mm.mmm′
+N 32° 57' 44''	W 84° 32' 15.2''	h dd° mm′ ss.s″
+HIDEAWAY FEED
+N 32.95602° 	W 84.53463° 	h ddd.ddddd°
+N 32° 57.361' 	W 84° 32.078' 	h ddd° mm.mmm′
+N 32° 57' 21.7''	W 84° 32' 4.7''	h dd° mm′ ss.s″
+WATER TOWER FIELD
+N 32.95104° 	W 84.5398° 	h ddd.ddddd°
+N 32° 57.063' 	W 84° 32.388' 	h ddd° mm.mmm′
+N 32° 57' 3.8''	W 84° 32' 23.3''	h dd° mm′ ss.s″
+RIDGE RD FEED
+N 32.95108° 	W 84.53174° 	h ddd.ddddd°
+N 32° 57.065' 	W 84° 31.904' 	h ddd° mm.mmm′
+N 32° 57' 3.9''	W 84° 31' 54.3''	h dd° mm′ ss.s″
+RIDGE FIELD
+N 32.95368° 	W 84.53147° 	h ddd.ddddd°
+N 32° 57.221' 	W 84° 31.888' 	h ddd° mm.mmm′
+N 32° 57' 13.2''	W 84° 31' 53.3''	h dd° mm′ ss.s″
+HONEYHOLE
+N 32.9511° 	W 84.5263° 	h ddd.ddddd°
+N 32° 57.066' 	W 84° 31.578' 	h ddd° mm.mmm′
+N 32° 57' 4''	W 84° 31' 34.7''	h dd° mm′ ss.s″
+RIDGE FEED
+N 32.95368° 	W 84.53147° 	h ddd.ddddd°
+N 32° 57.221' 	W 84° 31.888' 	h ddd° mm.mmm′
+N 32° 57' 13.2''	W 84° 31' 53.3''	h dd° mm′ ss.s″
+FLINT RIVER FEILD
+N 32.95185° 	W 84.52072° 	h ddd.ddddd°
+N 32° 57.111' 	W 84° 31.243' 	h ddd° mm.mmm′
+N 32° 57' 6.6''	W 84° 31' 14.6''	h dd° mm′ ss.s″
+TAVERN CREEK CROSSIN
+N 32.96223° 	W 84.54261° 	h ddd.ddddd°
+N 32° 57.734' 	W 84° 32.557' 	h ddd° mm.mmm′
+N 32° 57' 44''	W 84° 32' 33.4''	h dd° mm′ ss.s″
+PUMP
+N 32.95884° 	W 84.54275° 	h ddd.ddddd°
+N 32° 57.53' 	W 84° 32.565' 	h ddd° mm.mmm′
+N 32° 57' 31.8''	W 84° 32' 33.9''	h dd° mm′ ss.

@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  web:
+    build:
+     context: .
+    environment: 
+    - PYTHONUNBUFFERED=1
+    ports:
+      - "230:231"
+    volumes:
+    - ./:/app
+    links: 
+    - "deepstack:deep"
+  deepstack:
+    image: deepquestai/deepstack
+    restart: always
+    container_name: deepstack
+    ports:
+    - "5000:5000"
+    volumes:
+    - /root/Deer-Tracker/custom_model:/modelstore/detection
+
+  
+
